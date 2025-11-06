@@ -9,9 +9,9 @@
 ---
 
 ### 🚀 About Me
-💻 Software Engineer — I thrive on solving **technical challenges** and exploring **new frameworks and languages** to build clean, efficient systems.
-🎮 Mod Developer — I love creating mods for **Minecraft**, turning ideas into playable, living code.
-⚙️ Automation Enthusiast — I find joy in **automating the little (and big) tasks** that make life smoother, whether it’s for personal productivity or complex systems.
+💻 Software Engineer — I thrive on solving **technical challenges** and exploring **new frameworks and languages** to build clean, efficient systems.<br>
+🎮 Mod Developer — I love creating mods for **Minecraft**, turning ideas into playable, living code.<br>
+⚙️ Automation Enthusiast — I find joy in **automating the little (and big) tasks** that make life smoother, whether it’s for personal productivity or complex systems.<br>
 
 ---
 
